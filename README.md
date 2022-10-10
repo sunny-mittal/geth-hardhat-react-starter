@@ -1,6 +1,6 @@
 # Starter project for writing smart contracts
 
-#### **Important**: These instructions are for a private ethereum network and is not set up to be secure! It's for learning/testing smart contracts.
+#### **Important**: These instructions are for a private ethereum network and is not set up to be secure! It's for learning/testing smart contracts. The instructions are also mainly written for me with my machine setup in mind (specifically using iTerm with zsh) so commands may need to be augmented if you have a different setup.
 
 ### Prerequisites
 
